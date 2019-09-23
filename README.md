@@ -10,7 +10,7 @@ Dengan menggunakan 'pythonanywhere.com' dibuat agar model tersebut bisa di deplo
     - server.py : code untuk membuat server di prompt dan di 'pythonanywhere.com'
     - request.py : code untuk membuat request/prediksi model di prompt.
 
-# Cara deployment model di POSTMAN
+# Cara Deployment Model di POSTMAN
 1. Pastikan software "POSTMAN" sudah ada di laptop
 2. Kemudian lakukan request di postman, dengan klik tanda "+NEW" di kiri atas dan pilih request
 3. Pilih 'POST' lalu Copy url ini (faizah.pythonanywhere.com/api) pada 'Enter Request URL' 
@@ -32,7 +32,7 @@ Dengan menggunakan 'pythonanywhere.com' dibuat agar model tersebut bisa di deplo
 6. Setelah menginput informasi-informasi pada poin(5) selanjutnya pilih 'SEND' yang berada di sebelah kanan.
 7. Setelah itu, kita akan dapat mengetahui apakah jenis kredit dari kreditor tersebut terlambat atau tidak. Output : "Tidak Terlambat" dan "Terlambat".
 
-# Informasi dataset
+# Informasi Dataset
 Pada case ini saya menggunakan dataset tentang credit scoring di ASTRA. Dimana variabel prediktor yang saya gunakan ada 14 variable, dimana diantaranya ada 5 variable yang di dummies sehingga menjadi 32 variabel.
 Sebagai keterangan variabel prediktor sebagai berikut:
 1. "LIMIT_BAL": Jumlah limit Uang Kredit yang diberikan
