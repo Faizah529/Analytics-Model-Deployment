@@ -12,7 +12,7 @@ Dengan menggunakan 'pythonanywhere.com' dibuat agar model tersebut bisa di deplo
 # Cara Deployment Model di POSTMAN
 1. Pastikan software "POSTMAN" sudah ada di laptop
 2. Kemudian lakukan request di postman, dengan klik tanda "+NEW" di kiri atas dan pilih request
-3. Pilih 'POST' lalu Copy url ini (faizah.pythonanywhere.com/api) pada 'Enter Request URL' 
+3. Pilih 'POST' lalu Copy url ini **faizah.pythonanywhere.com/api** pada 'Enter Request URL' 
 4. Kemudian pilih tab 'Body' lalu pilih 'raw'
 5. Lalu kemudian tulisankan nilai-nilai dari variabel prediktor sehingga hasil yang diharapkan adalah melihat kreditnya akan terlambat atau tidak. Sebagai contoh:
     
