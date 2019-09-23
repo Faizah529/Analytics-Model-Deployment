@@ -7,8 +7,7 @@ Dengan menggunakan 'pythonanywhere.com' dibuat agar model tersebut bisa di deplo
     - input.txt : contoh inputan dengan menggunakan lebih dari 1 observasi untuk di prediksi 
 - code :
     - Credit Scoring using Random Forest.pkl : model klasifikasi dengan menggunakan random forest yang telah disimpan ke dalam format .pkl
-    - server.py : code untuk membuat server di prompt dan di 'pythonanywhere.com'
-    - request.py : code untuk membuat request/prediksi model di prompt.
+    - flask_app.py : code untuk membuat server di 'pythonanywhere.com'
 
 # Cara Deployment Model di POSTMAN
 1. Pastikan software "POSTMAN" sudah ada di laptop
