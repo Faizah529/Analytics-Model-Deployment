@@ -1,6 +1,6 @@
 # Analytics-Model-Deployment
-Pada case ini akan dilakukan deployment model menggunakan postman. Sebelumnya model sudah di buat menggunakan jupyter notebook menggunakan data testing kemudian disimpan menggunakan format (.pkl).
-Kemudian menggunakan 'pythonanywhere.com' dibuat agar model tersebut bisa di deploy ke public menggunakan API (Application Programming Interface). Kemudian dengan menggunakan pythonanywhere.com/api dapat dilakukan testing model dengan menabah input nilai-nilai variable yang digunakan mengguanakan software postman.
+Pada case ini akan dilakukan deployment model menggunakan postman. Sebelumnya model sudah di buat menggunakan jupyter notebook menggunakan data testing kemudian disimpan menggunakan format (.pkl). Kemudian dibentuk server menggunakan framework/packages flask dipython.
+Dengan menggunakan 'pythonanywhere.com' dibuat agar model tersebut bisa di deploy ke public menggunakan API (Application Programming Interface). Kemudian dengan menggunakan pythonanywhere.com/api dapat dilakukan testing model dengan menambah input nilai-nilai variable yang digunakan mengguanakan software postman.
 
 # Content
 - dataset :
